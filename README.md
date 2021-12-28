@@ -2,9 +2,6 @@
 
 ## Available Scripts
 
-First you need to check if you have nodemon installed:
-
-### `npm i nodemon`
 In the project directory, you can run:
 
 ### `npm start`
